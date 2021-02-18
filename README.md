@@ -67,10 +67,11 @@
 16. Fill in the info from the GitHub (repository Name, share by > add Account)
 17. Authorize in Github on jetBrains pop up and sign in with github account
 18. Click on share back on Webstorm
-19. Go to GitHub.com and go to your repository, then to settings (settings might be on "..." if browser is not fullscreen)
-20. change source to None and save
-21. Scrolls down to "source" right above the danger Zone if background not blue change none back to master
-22. wait or keep reloading the page until it says your site is published above source
-23. click on the link provided by the published, you should see a hello world text on your screen
-24. Congratulations you are done, now any commits on the future should be published here
-25. You can Also click on the browser in the html file right side to see your changes (these are not the github ones, remember to commit if you want to see it on gitHUB)
+19. click on push under "Git" to push to remote repository
+20. Go to GitHub.com and go to your repository, then to settings (settings might be on "..." if browser is not fullscreen)
+21. change source to None and save
+22. Scrolls down to "source" right above the danger Zone if background not blue change none back to master
+23. wait or keep reloading the page until it says your site is published above source
+24. click on the link provided by the published, you should see a hello world text on your screen
+25. Congratulations you are done, now any commits on the future should be published here
+26. You can Also click on the browser in the html file right side to see your changes (these are not the github ones, remember to commit if you want to see it on gitHUB)
