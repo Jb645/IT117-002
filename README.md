@@ -1,5 +1,5 @@
 # IT117-002
-**Terms**
+##**Terms**
 - ***Branch***: A "branch" is a line of development. The most recent commit on a branch is referred to as the tip of that branch. The tip of the branch is referenced by a branch head, which moves forward as additional development is done on the branch. A single Git repository can track an arbitrary number of branches, but your working tree is associated with just one of them (the "current" or "checked out" branch), and HEAD points to that branch.
 - ***Clone***: Clones a repository into a newly created directory, creates remote-tracking branches for each branch in the cloned repository (visible using git branch --remotes), and creates and checks out an initial branch that is forked from the cloned repository’s currently active branch. After the clone, a plain git fetch without arguments will update all the remote-tracking branches, and a git pull without arguments will in addition merge the remote master branch into the current master branch, if any 
 - ***Commit***:  Record changes to the repository. By using git-add to incrementally "add" changes to the index before using the commit command. By using git-rm to remove files from the working tree and the index, again before using the commit command.
@@ -12,3 +12,10 @@
 - ***Pull***: Fetch from and integrate with another repository or a local branch. The git pull command is used to fetch and download content from a remote repository and immediately update the local repository to match that content.
 - ***Remote***: A remote in Git is a common repository that all team members use to exchange their changes. In most cases, such a remote repository is stored on a code hosting service like GitHub or on an internal server.
 - ***Repository***: A Git repository is the .git/ folder inside a project. This repository tracks all changes made to files in your project, building a history over time. Meaning, if you delete the .git/ folder, then you delete your project’s history.
+
+
+##**Tutorial Git**
+
+##**Turotrial Webstorm**
+
+##**Tutorial Github**
