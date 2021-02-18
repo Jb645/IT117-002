@@ -57,7 +57,7 @@
 6. click on version Control tab and on Git and click on the "test" button on "Path to Git executable"
 7. Now you can test it by right clickin on the folder right under project on the left side
 8. choose New > HTML file.
-9. You can change the title if you want but rember to add a <p>Hello World</p> in between the 2 body tags
+9. You can change the title if you want but rember to add a Hello World in between the 2 paragraphs tags
 10. Clik on "Git" on the top between "Tools" and "Window"
 11. Click Connect
 12. Choose files to commit (just the HTML file)
