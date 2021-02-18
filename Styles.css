@@ -1,0 +1,36 @@
+body{
+    background-color: slategray;
+}
+.grid{
+    height: 65px;
+    width: auto;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    align-items: center;
+    background-color: grey;
+    grid-gap: 10px;
+    justify-content: space-evenly;
+    padding: 0 10px;
+
+}
+.box{
+    background-color: lightgray;
+    color: black;
+    padding: 15px;
+    border: 2px darkgray solid;
+    border-radius: 5px;
+
+
+}
+.a{
+
+}
+.b{
+
+}
+.c{
+
+}
+.d{
+
+}
